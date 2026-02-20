@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 .github
 
-/Camera_Calibrate/data/
-/Calibration-ZhangZhengyou-Method-master/
-
-Camera_Calibrate/code/stereo_camera_calibrate_exp.ipynb
+data/
+Calibration-ZhangZhengyou-Method-master/
+code/stereo_camera_calibrate_exp.ipynb
